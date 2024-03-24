@@ -3,7 +3,7 @@
 This project focuses on flood image segmentation utilizing the U-Net architecture implemented in TensorFlow framework. The U-Net model is a convolutional neural network (CNN) architecture extensively used for image segmentation tasks due to its effectiveness in capturing spatial dependencies and preserving details.
 
 ## Kaggle Notebook
-[Link to Kaggle Notebook](https://www.kaggle.com/code/jvageesh11/flood-area-segmentation-unet/)
+[Link to Kaggle Notebook](https://www.kaggle.com/code/jvageesh11/flood-area-segmentation-unet)
 
 ## Kaggle Dataset
 [Link to Kaggle Dataset](https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation)
