@@ -11,4 +11,4 @@ This project focuses on flood image segmentation utilizing the U-Net architectur
 ## U-Net Model Structure
 ![U-Net Architecture](https://github.com/Vageesh-Jayaraman/Unet-Based-Flood-Image-Segmentation-in-TensorFlow/assets/143870355/b5bb274e-850d-45f7-9b3e-d71fbc279f76)
 
-Image credits: https://miro.medium.com/v2/resize:fit:1400/1*f7YOaE4TWubwaFF7Z1fzNw.png
+[Image credits](https://miro.medium.com/v2/resize:fit:1400/1*f7YOaE4TWubwaFF7Z1fzNw.png)
