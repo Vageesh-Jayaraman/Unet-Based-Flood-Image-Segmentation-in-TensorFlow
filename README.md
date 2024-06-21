@@ -1,5 +1,5 @@
 # Flood Image Segmentation using U-Net Architecture
-[Link to Website](https://flood-image-segmentation.streamlit.app/#flood-image-segmentation)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://flood-image-segmentation.streamlit.app/#flood-image-segmentation)
 
 This project focuses on flood image segmentation utilizing the U-Net architecture implemented in TensorFlow framework. The U-Net model is a convolutional neural network (CNN) architecture extensively used for image segmentation tasks due to its effectiveness in capturing spatial dependencies and preserving details.
 
